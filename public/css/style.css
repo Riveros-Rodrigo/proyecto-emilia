@@ -1,1 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Raleway:wght@400;700&family=Work+Sans:wght@300;400;700&display=swap');
 @import './general.css'; /* las hojas de estilo son internas por eso las llamo asi y no con url() */
+@import './header.css';
+@import './home.css'; 
+@import './about.css'; 
+@import './contact.css'; 
+@import './music.css'; 
